@@ -1,24 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Header from "./components/Header";
+import Podcast from "./components/Podcast";
+import Latest from "./components/Latest";
+import Jacob from "./components/Jacob";
+import Starding from "./components/Starding";
+import Footer from "./components/Footer";
+
+
+function Star() {
+    return null;
+}
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Header/>
+        <Podcast/>
+        <Latest/>
+        <Jacob/>
+        <Starding/>
+        <Footer/>
     </div>
   );
 }
