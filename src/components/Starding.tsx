@@ -4,9 +4,9 @@ import {AiFillStar} from "react-icons/ai";
 const Starding = () => {
     return (
         <div className="container">
-            <div className="flex justify-between items-center m-20">
-                <div className="bg-black m-6 py-8 px-8 rounded-3xl">
-                    <div className="text-white">
+            <div className="flex justify-between items-center m-12">
+                <div className="bg-black  w-[600px] h-[300px] m-6 rounded-3xl">
+                    <div className="text-white m-6">
                         <div className="flex items-center m-5">
                             <AiFillStar className="text-[#FCFF51]"/>
                             <AiFillStar className="text-[#FCFF51]"/>
@@ -20,8 +20,8 @@ const Starding = () => {
                         <h6 className="m-6">Betty Lacey</h6>
                     </div>
                 </div>
-                <div className="bg-black m-6 py-8 px-8 rounded-3xl">
-                    <div className="text-white">
+                <div className="bg-black w-[600px] h-[300px] m-6 rounded-3xl">
+                    <div className="text-white m-6">
                         <div className="flex items-center m-6">
                             <AiFillStar className="text-[#FCFF51]"/>
                             <AiFillStar className="text-[#FCFF51]"/>
@@ -35,8 +35,8 @@ const Starding = () => {
                         <h6 className="m-6">Adam Driver</h6>
                     </div>
                 </div>
-                <div className="bg-black m-6 py-8 px-7 rounded-3xl">
-                    <div className="text-white">
+                <div className="bg-black  w-[600px] h-[300px] m-6 rounded-3xl">
+                    <div className="text-white m-6">
                         <div className="flex items-center m-6">
                             <AiFillStar className="text-[#FCFF51]"/>
                             <AiFillStar className="text-[#FCFF51]"/>
@@ -51,10 +51,10 @@ const Starding = () => {
                     </div>
                 </div>
             </div>
-            <div className="flex justify-between items-center m-20">
-                <div className="bg-black m-6 py-8 px-8 rounded-3xl">
-                    <div className="text-white">
-                        <div className="flex items-center m-5">
+            <div className="flex justify-between items-center m-12">
+                <div className="bg-black w-[600px] h-[300px] rounded-3xl">
+                    <div className="text-white m-6">
+                        <div className="flex items-center m-6">
                             <AiFillStar className="text-[#FCFF51]"/>
                             <AiFillStar className="text-[#FCFF51]"/>
                             <AiFillStar className="text-[#FCFF51]"/>
@@ -67,8 +67,8 @@ const Starding = () => {
                         <h6 className="m-6">Betty Lacey</h6>
                     </div>
                 </div>
-                <div className="bg-black m-6 py-8 px-8 rounded-3xl">
-                    <div className="text-white">
+                <div className="bg-black  w-[600px] h-[300px] m-6 rounded-3xl">
+                    <div className="text-white m-6">
                         <div className="flex items-center m-6">
                             <AiFillStar className="text-[#FCFF51]"/>
                             <AiFillStar className="text-[#FCFF51]"/>
@@ -82,8 +82,8 @@ const Starding = () => {
                         <h6 className="m-6">Adam Driver</h6>
                     </div>
                 </div>
-                <div className="bg-black m-6 py-8 px-6 rounded-3xl">
-                    <div className="text-white">
+                <div className="bg-black  w-[600px] h-[300px] m-6  rounded-3xl">
+                    <div className="text-white m-6">
                         <div className="flex items-center m-6">
                             <AiFillStar className="text-[#FCFF51]"/>
                             <AiFillStar className="text-[#FCFF51]"/>

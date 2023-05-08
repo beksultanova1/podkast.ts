@@ -6,13 +6,13 @@ import İmg4 from '../img/img4.png'
 const Latest = () => {
     return (
         <div className="container">
-            <div className="flex justify-between items-center text-white m-20">
+            <div className="flex justify-between items-center text-white m-12">
                 <h1 className="text-6xl">Latest episodes</h1>
                 <button className="text-[#E5E5E5] ml-52 bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center">
                     View all episodes
                 </button>
             </div>
-            <div className="bg-black rounded-3xl m-20 py-8 px-6 m-24 text-white">
+            <div className="bg-black rounded-3xl m-10 py-8 px-6 m-12 text-white">
                 <div className="flex justify-between items-center">
                     <img src={İmg2} alt="#"/>
                     <div className="">
@@ -26,7 +26,7 @@ const Latest = () => {
                     </div>
                 </div>
             </div>
-            <div className="bg-black rounded-3xl m-20 py-8 px-6 m-24 text-white">
+            <div className="bg-black rounded-3xl m-10 py-8 px-6 m-12 text-white">
                 <div className="flex justify-between items-center">
                     <img src={İmg3} alt="#"/>
                     <div className="">
@@ -40,7 +40,7 @@ const Latest = () => {
                     </div>
                 </div>
             </div>
-            <div className="bg-black rounded-3xl m-20 py-8 px-6 m-24 text-white">
+            <div className="bg-black rounded-3xl m-10 py-8 px-6 m-12 text-white">
                 <div className="flex justify-between items-center">
                     <img src={İmg4} alt="#"/>
                     <div className="">

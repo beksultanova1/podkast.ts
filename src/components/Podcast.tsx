@@ -7,7 +7,7 @@ import {DiRequirejs} from "react-icons/di";
 const Podcast = () => {
     return (
         <div className="container">
-                <div className="m-20 flex justify-between items-center">
+                <div className="m-12 flex justify-between items-center">
                     <img src={İmg1} width={500} alt="#"/>
                     <div className="text-white">
                         <h1 className="text-7xl py-4 m-20">Take your podcast to the next level</h1>
